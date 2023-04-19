@@ -1,0 +1,29 @@
+Angular JS: AngularJS is a JavaScript open-source front-end framework that is mainly used to develop single-page web applications.
+It changes the static HTML to dynamic HTML.
+It is an open-source project which can be freely used and changed by anyone.
+It extends HTML attributes with Directives, and data is bound with HTML.
+
+Angular : It is a popular open-source Typescript framework created by Google for developing web applications.
+Newly added angular CLI, & with the help of this command-line interface, we can install the required packages that facilitate creation & make the complex-structured code into a modular form that can be easy to manage.
+
+Difference between Angular JS nad Angular
+Angular JS:
+1. It supports MVC design. The view processes the information available in the model to generate the output.
+2. Written in JavaScript
+3. It does not support mobile browsers. 
+4. ng-bind is used to bind data from view to model and vice versa
+5. It does not use Dependency Injection.
+6. It only supports JavaScript.
+7. AngularJS uses $routeprovider.when() for routing configuration.
+8. It does not come with a CLI tool.
+9. Ex: iStock, Netflix, and Angular JS official website.
+
+Angular :
+1. It uses components and directives. Components are the directives with a template.
+2. Written in Microsoft’s TypeScript language, which is a superset of ECMAScript 6 (ES6).
+3. Angular is supported by all the popular mobile browsers.
+4. Properties enclosed in “()” and “[]” are used to bind data between view and model. 
+5. It provides support for TypeScript and JavaScript.
+6. Angular uses @Route Config{(…)} for routing configuration.
+7. It comes with the Angular CLI tool.
+8. Ex : Upwork, Gmail, and Wikiwand.
